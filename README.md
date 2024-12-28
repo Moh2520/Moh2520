@@ -29,8 +29,7 @@ Started Coding In the womb, live, Laugh, code . My favorite subjects are leetcod
 ### Badges
 <b> My LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mohamed_LC?theme=dark&font=Basic)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mohamed_LC?theme=unicorn&font=Basic&ext=activity)
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Moh2520"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Moh2520&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Moh2520's GitHub stats" /></a>
