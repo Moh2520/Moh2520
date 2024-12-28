@@ -30,10 +30,9 @@ Started Coding In the womb, live, Laugh, code . My favorite subjects are leetcod
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moh2520&show_icons=true&locale=en&layout=compact" alt="moh2520" /></p>
+<a href="http://www.github.com/Moh2520"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Moh2520&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moh2520&show_icons=true&locale=en" alt="moh2520" /></p>
-
+<a href="https://github.com/Moh2520" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh2520&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdepanagoudra/cdepanagoudra/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdepanagoudra/cdepanagoudra/output/github-snake.svg" />
