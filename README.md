@@ -35,7 +35,7 @@ Started Coding In the womb, live, Laugh, code . My favorite subjects are leetcod
 <a href="https://github.com/Moh2520" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh2520&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Mohamed_LC&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 <picture>
